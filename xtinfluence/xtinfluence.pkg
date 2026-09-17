@@ -1,5 +1,10 @@
-D 'xtregdhp': Han-Philips (2010) Linear Dynamic Panel Data Regression Use xtregdhp With STATA 19
+D 'xtinfluence': Influence Analysis for Linear Panel Data with Fixed Effects Use xtinfluence With STATA 19
 D
-F xtregdhp.ado
-F xtregdhp.dlg
-F xtregdhp.sthlp
+F heatplot.ado
+F heatplot.sthlp
+F hexplot.ado
+F hexplot.sthlp
+F xtinfluence.ado
+F xtinfluence.sthlp
+F xtlvr2plot.ado
+F xtlvr2plot.sthlp
