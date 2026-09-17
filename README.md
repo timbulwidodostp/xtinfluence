@@ -1,5 +1,5 @@
 # xtinfluence
-Influence Analysis for Linear Panel Data with Fixed Effects Use xtinfluence With R Software
+Influence Analysis for Linear Panel Data with Fixed Effects Use xtinfluence With STATA 19
 
 Olah Data Semarang
 
