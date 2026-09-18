@@ -1,6 +1,8 @@
 # xtinfluence
 Influence Analysis for Linear Panel Data with Fixed Effects Use xtinfluence With STATA 19
 
+https://www.youtube.com/watch?v=nA4FaZZ0PbA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
